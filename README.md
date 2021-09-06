@@ -17,4 +17,4 @@ yarn build #prod
 ## License
 
 This project is licensed under the MIT license, Copyright (c) 2021 xNoJustice.
-For more information see `LICENSE.md`.
+For more information see `LICENSE`.
